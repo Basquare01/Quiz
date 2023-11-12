@@ -92,7 +92,6 @@ p{
    box-shadow: 0 5px 10px black;
 }
 
-#next:focus, #previous:focus{
-    box-shadow: 0 5px 10px black;
-
+#next:hover, #previous:hover{
+    box-shadow: 0 2px 5px black;
 }
